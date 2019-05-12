@@ -5,15 +5,15 @@
         "clientId": "uhc",
         "url": "http://localhost:8002/auth"
     },
-    "installerURL": "https://github.com/openshift/installer/releases",
+    "installerURL": "https://mirror.openshift.com/pub/openshift-v4/clients/ocp/latest/",
     "documentationURL": "https://github.com/openshift/installer/blob/master/README.md#quick-start",
     "terraformInstallURL": "https://www.terraform.io/downloads.html",
-    "commandLineToolsURL": "https://mirror.openshift.com/pub/openshift-v3/clients/4.0.0-0.139.0/"
+    "commandLineToolsURL": "https://mirror.openshift.com/pub/openshift-v4/clients/ocp/latest/"
 }
 {
   "apiGateway": "https://api.stage.openshift.com",
-  "installerURL": "https://github.com/openshift/installer/releases",
+  "installerURL": "https://mirror.openshift.com/pub/openshift-v4/clients/ocp/latest/",
   "documentationURL": "https://github.com/openshift/installer/blob/master/README.md#quick-start",
   "terraformInstallURL": "https://www.terraform.io/downloads.html",
-  "commandLineToolsURL": "https://mirror.openshift.com/pub/openshift-v4/clients/4.1"
+  "commandLineToolsURL": "https://mirror.openshift.com/pub/openshift-v4/clients/ocp/latest/"
 }
