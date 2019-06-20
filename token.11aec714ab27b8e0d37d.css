@@ -24944,6 +24944,9 @@ ol.embedded-indent {
 .cluster-list-emptystate-options .blank-slate-pf-main-action {
   margin-top: auto; }
 
+.cluster-list-emptystate-options .blank-slate-pf-main-action .btn {
+  white-space: normal; }
+
 footer {
   background-color: #1d1d1d; }
   footer ul {
@@ -26446,4 +26449,4 @@ html {
   padding-right: var(--pf-c-alert__action--PaddingRight); }
 
 
-/*# sourceMappingURL=token.527c9738a999c2fa15d8.css.map*/
+/*# sourceMappingURL=token.11aec714ab27b8e0d37d.css.map*/
