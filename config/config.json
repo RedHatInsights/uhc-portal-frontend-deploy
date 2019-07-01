@@ -1,8 +1,8 @@
 {
     "apiGateway": "http://localhost:8002",
     "keycloak": {
-        "realm": "rhd",
-        "clientId": "uhc",
+        "realm": "redhat-external",
+        "clientId": "cloud-services",
         "url": "http://localhost:8002/auth"
     },
     "installerURL": "https://mirror.openshift.com/pub/openshift-v4/clients/ocp/latest/",
