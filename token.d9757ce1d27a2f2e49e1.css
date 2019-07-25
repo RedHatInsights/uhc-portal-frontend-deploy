@@ -25058,7 +25058,7 @@ h4.pf-c-alert__title {
   -webkit-filter: grayscale(0);
   filter: grayscale(0); }
 
-.create-cluster-header.pf-c-card__header {
+.infra-card .create-cluster-header.pf-c-card__header {
   margin-top: 55px;
   padding-top: 0; }
 
@@ -29614,4 +29614,4 @@ label.pf-c-radio, .pf-c-radio__label,
 /* stylelint-enable */
 
 
-/*# sourceMappingURL=token.bea198e43dbc44b33f74.css.map*/
+/*# sourceMappingURL=token.d9757ce1d27a2f2e49e1.css.map*/
