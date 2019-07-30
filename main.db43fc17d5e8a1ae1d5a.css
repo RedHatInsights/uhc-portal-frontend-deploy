@@ -25059,14 +25059,13 @@ h4.pf-c-alert__title {
   padding-top: 0; }
 
 .node-type-input {
-  font-size: 12px;
   margin-top: 25px; }
   .node-type-input .error {
     color: #cc0000; }
   .node-type-input label.pf-c-radio__label {
     font-size: 12px; }
   .node-type-input label.pf-c-radio__label > h4 {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 600;
     margin-bottom: 0; }
   .node-type-input .pf-c-radio {
@@ -25093,6 +25092,12 @@ h4.pf-c-alert__title {
   margin-left: 0;
   padding-top: 0;
   margin-top: 0; }
+
+.expand-collapse-pf button {
+  font-size: var(--pf-c-content--FontSize); }
+
+.expand-collapse-pf .expand-collapse-pf-separator {
+  margin-top: var(--pf-c-content--FontSize); }
 
 .log-window {
   color: #f5f5f5;
@@ -25131,65 +25136,6 @@ h4.pf-c-alert__title {
 .log-window__resume-btn:focus,
 .log-window__resume-btn:active {
   color: #f5f5f5; }
-
-/* stylelint-enable */
-/* stylelint-disable */
-/* stylelint-enable */
-html {
-  height: 100%; }
-
-/*
-  Open Shift masthead overrides:
-  https://github.com/openshift/console/blob/master/frontend/public/style/_overrides.scss#L260
-
-  These are temporary until OpenShift updates masthead treatment.
- */
-.pf-c-page__header {
-  background-color: var(--pf-global--BackgroundColor--dark-200);
-  background-image: url(/apps/openshift/images/pfbg_2000.ed6e492e9cfc9c1ef104a665b5162b17.jpg);
-  background-repeat: no-repeat;
-  background-size: cover; }
-
-.pf-c-page .pf-c-page__main-section {
-  --pf-c-page__main-section--PaddingTop: 0;
-  --pf-c-page__main-section--PaddingRight: 0;
-  --pf-c-page__main-section--PaddingBottom: 0;
-  --pf-c-page__main-section--PaddingLeft: 0; }
-
-.pf-c-page__header-brand-link {
-  max-width: 178px; }
-
-.pf-c-brand {
-  max-width: 100%;
-  display: block; }
-
-/*
-  Open Shift PF3/PF4 Base Font change (makes PF4 Overpass fonts slightly smaller):
-  https://github.com/openshift/console/blob/ef1212655ba60571aaeec666843cd9f1ef139189/frontend/public/style/_layout.scss#L23
-
-  Masthead is PF4 and uses base font size 16px, while the rest of the page remains 14px ($font-size-base)
- */
-.pf-c-page {
-  --pf-global--FontSize--md: 1.125rem; }
-
-.pf-c-page__header {
-  --pf-global--FontSize--md: calc(16 * 1px); }
-
-.modal-title {
-  font-size: 1.125rem; }
-
-@media screen and (max-width: 767px) {
-  .pf-u-visible-on-md {
-    display: none; } }
-
-.pf-c-page .pf-c-page__main-section:last-of-type, .pf-c-page .pf-c-page__main-section:only-child {
-  flex: 1 0 auto; }
-
-.pf-c-dropdown .pf-c-dropdown__menu {
-  list-style: none; }
-
-.pf-c-dropdown .pf-c-dropdown__menu-item:hover, .pf-c-dropdown .pf-c-dropdown__menu-item:focus {
-  color: var(--pf-global--Color--dark-100); }
 
 /* stylelint-enable */
 .pf-c-page__header, .pf-c-page__main-section[class*="pf-m-dark-"] {
@@ -29623,4 +29569,4 @@ label.pf-c-radio, .pf-c-radio__label,
 /* stylelint-enable */
 
 
-/*# sourceMappingURL=token.1a107e1a00889cf051ff.css.map*/
+/*# sourceMappingURL=main.db43fc17d5e8a1ae1d5a.css.map*/
