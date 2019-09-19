@@ -25331,7 +25331,7 @@ span.dev-preview-label svg {
   margin: 0;
   padding: 0; }
 
-.archived-cluster-toast {
+div.pf-c-alert.archived-cluster-toast {
   width: 20%;
   right: 1%;
   top: 9%;
@@ -32965,4 +32965,4 @@ label.pf-c-radio, .pf-c-radio__label,
 /* stylelint-enable */
 
 
-/*# sourceMappingURL=main.2b145e8663a1f8291198.css.map*/
+/*# sourceMappingURL=main.b8d722ff23f4cca89b21.css.map*/
