@@ -32661,6 +32661,9 @@ h4.pf-c-alert__title {
   margin-top: 15px;
   height: 132px; }
 
+div .pf-c-dropdown__menu-item .pf-c-check__input {
+  margin: -2px 0 0; }
+
 .split-margin-left {
   margin-left: 15px; }
 
@@ -32813,4 +32816,4 @@ button:focus.popover-hover {
   color: #f5f5f5; }
 
 
-/*# sourceMappingURL=main.ec5920e1171cbc6721b0.css.map*/
+/*# sourceMappingURL=main.b2baa73a27fffefa3224.css.map*/
