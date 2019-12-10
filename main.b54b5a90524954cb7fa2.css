@@ -34270,6 +34270,9 @@ limitations under the License.
 .cluster-list-empty-state .pf-c-empty-state__secondary {
   margin-top: var(--pf-global--spacer--sm); }
 
+.pf-c-empty-state.pf-m-lg {
+  margin: 0 auto; }
+
 .token-details {
   margin: 0px 30px 0 30px; }
 
@@ -34981,4 +34984,4 @@ button:focus.popover-hover {
   color: #f5f5f5; }
 
 
-/*# sourceMappingURL=main.dc1f494404e4756aad82.css.map*/
+/*# sourceMappingURL=main.b54b5a90524954cb7fa2.css.map*/
