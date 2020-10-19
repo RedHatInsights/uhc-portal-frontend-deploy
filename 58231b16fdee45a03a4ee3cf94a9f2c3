@@ -71,6 +71,11 @@ node {
           sh "python3 bustCache.py $EDGERC ${APP_NAME}"
         }
       }
+
+      mail to: 'sda-devel@redhat.com',
+             subject: "Finished Running Pipeline: ${currentBuild.fullDisplayName}",
+             body: "The pipeline has completed this build: ${env.BUILD_URL}"
+
     }
   }
 }
