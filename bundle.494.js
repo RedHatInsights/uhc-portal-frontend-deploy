@@ -1,0 +1,2 @@
+(self.webpackChunkcloud_openshift_com=self.webpackChunkcloud_openshift_com||[]).push([[494],{16494:(e,t,s)=>{"use strict";s.r(t),s.d(t,{default:()=>i});var r=s(30624),a=s.n(r),n=s(334),o=s(12167),c=s(27849),l=s(79688),u=s(60378),h=s(39167),m=s(69693),d=s(43363);l.V0.setAuthInterceptor(d.w),l.De.setRouteBasePath("/assisted-installer");const i=()=>a().createElement(o.Provider,{store:h.h},a().createElement(c.ZP,{store:h.h}),a().createElement(n.BrowserRouter,{basename:(0,m.ZP)()},a().createElement(u.Z,null)))}}]);
+//# sourceMappingURL=bundle.494.js.map
