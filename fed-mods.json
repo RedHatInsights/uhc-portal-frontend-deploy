@@ -1,11 +1,11 @@
 {
     "openshift": {
         "entry": [
-            "/apps/openshift/openshift.3cbd73136abb68e47f3b.js"
+            "/apps/openshift/openshift.c01b60034a9f955c85d6.js"
         ],
         "modules": [
             "/apps/openshift/954.4b88ff61f7e076c5e840.css",
-            "/apps/openshift/bundle.954.0b286de53834fa3b28f7.js"
+            "/apps/openshift/bundle.954.90dda961f9189213f9d2.js"
         ]
     }
 }
