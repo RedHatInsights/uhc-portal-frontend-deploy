@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcloud_openshift_com=self.webpackChunkcloud_openshift_com||[]).push([[502],{48502:(e,t,u)=>{var n=d(u(92950)),l=d(u(12181)),o=d(u(16494));function d(e){return e&&e.__esModule?e:{default:e}}window.insights,l.default.render(n.default.createElement(o.default,null),document.getElementById("root"))}}]);
+//# sourceMappingURL=bundle.502.a4c345f818c825ff.js.map
