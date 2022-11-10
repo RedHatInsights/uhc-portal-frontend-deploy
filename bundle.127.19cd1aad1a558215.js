@@ -1,0 +1,2 @@
+(self.webpackChunkcloud_openshift_com=self.webpackChunkcloud_openshift_com||[]).push([[127],{48502:(e,t,l)=>{"use strict";var n=l(95318),u=n(l(92950)),o=n(l(12181)),s=n(l(32750)),c=n(l(16494));Object.fromEntries||s.default.shim(),window.insights,o.default.render(u.default.createElement(c.default,null),document.getElementById("root"))},97031:()=>{}}]);
+//# sourceMappingURL=bundle.127.19cd1aad1a558215.js.map
