@@ -1,7 +1,7 @@
 {
     "openshift": {
         "entry": [
-            "/apps/openshift/openshift.fc0083ad8b04fe57.js"
+            "/apps/openshift/openshift.319c35bec64db3ae.js"
         ],
         "modules": [
             "/apps/openshift/bundle.236.87547fdb6b32872b.js"
