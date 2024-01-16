@@ -1,10 +1,11 @@
 {
-    "openshift": {
-        "entry": [
-            "/beta/apps/openshift/openshift.8d925124e04cc737.js"
-        ],
-        "modules": [
-            "/beta/apps/openshift/bundle.236.8e631cde996e45d3.js"
-        ]
-    }
+  "name": "openshift",
+  "version": "1.0.0",
+  "extensions": [],
+  "registrationMethod": "callback",
+  "baseURL": "/beta/apps/openshift/",
+  "loadScripts": [
+    "openshift.bd97373188c7f6e4.js"
+  ],
+  "buildHash": "bd97373188c7f6e4"
 }
