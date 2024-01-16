@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcloud_openshift_com=self.webpackChunkcloud_openshift_com||[]).push([[185],{29317:(l,o,c)=>{c.r(o),c.d(o,{default:()=>e,global_danger_color_100:()=>a});const a={name:"--pf-global--danger-color--100",value:"#c9190b",var:"var(--pf-global--danger-color--100)"},e=a},34537:(l,o,c)=>{c.r(o),c.d(o,{default:()=>e,global_success_color_100:()=>a});const a={name:"--pf-global--success-color--100",value:"#3e8635",var:"var(--pf-global--success-color--100)"},e=a}}]);
-//# sourceMappingURL=bundle.185.332c98c15a303895.js.map
