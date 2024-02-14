@@ -6,7 +6,16 @@ import groovy.json.JsonSlurper
 node {
   stage ("deploy") {
 
-    checkout scm
+    // If the pipeline gets behind for days, we've seen git fetch fail -
+    // each commit contains a full JS bundle...  Limit size by shallow clone.
+    checkout([
+        $class: 'GitSCM',
+        branches: scm.branches,
+        doGenerateSubmoduleConfigurations: scm.doGenerateSubmoduleConfigurations,
+        extensions: scm.extensions + [$class: 'CloneOption', shallow: true],
+        userRemoteConfigs: scm.userRemoteConfigs
+    ])
+
     withCredentials(bindings: [sshUserPrivateKey(credentialsId: "cloud-netstorage",
                       keyFileVariable: "privateKeyFile",
                       passphraseVariable: "",
