@@ -5,7 +5,7 @@
   "registrationMethod": "callback",
   "baseURL": "/apps/openshift/",
   "loadScripts": [
-    "openshift.f17798b58ea974ea.js"
+    "openshift.64dd8e726a992f69.js"
   ],
-  "buildHash": "f17798b58ea974ea"
+  "buildHash": "64dd8e726a992f69"
 }
