@@ -1,1 +1,1 @@
-{"name":"openshift","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/apps/openshift/","loadScripts":["openshift.0cb3a44b90cdb76c.js"],"buildHash":"76bb359f2199a62b"}
+{"name":"openshift","version":"1.0.0","extensions":[],"registrationMethod":"callback","baseURL":"/apps/openshift/","loadScripts":["openshift.db1d43b1c632db9f.js"],"buildHash":"5a28064e88a723f1"}
